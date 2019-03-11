@@ -74,7 +74,7 @@ tkvar3 = StringVar(root)
 
 choice1 = "Essaf"
 choice2 = "Maadi"
-choice15 = "HUB"
+choice15 = "Naimo Center"
 popupMenu = OptionMenu(mainframe, tkvar, choice1, choice2, choice15)
 
 # on change dropdown value
